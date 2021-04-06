@@ -1,0 +1,16 @@
+{
+  "name": "bbtwitcheventhandler",
+  "version": "1.0.0",
+  "description": "Handles twitch events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Chote",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "query-string": "^7.0.0",
+    "tmi.js": "^1.7.5"
+  }
+}
